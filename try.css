@@ -1,7 +1,13 @@
+@media only screen and (max-width:600px) {
+    body{
+        display: none;
+    }
+}
 html
 {
     font-size: 5vh;
 }
+me
 body{
 
     margin: 0px;
